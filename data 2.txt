@@ -1,0 +1,6 @@
+myint num_a = 50 * 2
+myfloat num_b = 15.5 - 3.2
+start
+show num_a + num_b
+stop
+

@@ -1,0 +1,5 @@
+mydouble value = 3.14        
+mydouble 123value_z = 3.14  
+mydouble test_z = hello      
+mydouble _z_test = 1.23e-2   
+mydouble

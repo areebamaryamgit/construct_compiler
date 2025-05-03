@@ -1,0 +1,5 @@
+myint var_z = 42 + 3.14
+myfloat anotherVar_z = -5.67
+start
+show var_z / anotherVar_z
+stop

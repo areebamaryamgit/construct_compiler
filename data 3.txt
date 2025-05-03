@@ -1,0 +1,3 @@
+mydouble val_z 
+val_z= 3.14159
+

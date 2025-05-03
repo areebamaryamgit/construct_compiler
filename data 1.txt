@@ -1,0 +1,5 @@
+mybool isWeekend_z = false
+mybool isHoliday_z = true
+show isWeekend_z
+show isHoliday_z
+stop
